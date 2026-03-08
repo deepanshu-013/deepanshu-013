@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" width="800"/>
+  <img src="greeting.gif" width="800"/>
 </p>
 
 # 💫 About Me:
