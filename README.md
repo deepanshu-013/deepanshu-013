@@ -1,4 +1,6 @@
-## Greetings
+<p align="center">
+  <img src="banner.gif" width="800"/>
+</p>
 
 # 💫 About Me:
 Building weird things with code ⚙️  <br><br>Currently: <br>• Building large-scale search systems 🔎  <br>• Turning chaotic datasets into something useful  <br>
@@ -14,6 +16,4 @@ Building weird things with code ⚙️  <br><br>Currently: <br>• Building larg
 ![](https://nirzak-streak-stats.vercel.app/?user=deepanshu-013&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-013&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
