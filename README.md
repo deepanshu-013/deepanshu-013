@@ -3,7 +3,7 @@
 </p>
 
 # About Me:
-Building weird things with code ⚙️  <br><br>Currently: <br>• Building large-scale search systems 🔎  <br>• Turning chaotic datasets into something useful  <br>
+Building weird things with code ⚙️  <br><br>Currently: <br>• Building Transformer-From-Scratch 🔎 
 
 
 ## Socials:
